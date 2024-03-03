@@ -1,0 +1,2 @@
+# Jvascript
+"querySelector" ve "querySelectorAll"
